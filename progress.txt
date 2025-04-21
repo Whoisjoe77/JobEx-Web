@@ -1,0 +1,5 @@
+home - aman
+
+job-list - kurang search, filter, detail pekerjaan, ajukan lowongan
+job-yang sudah diajukan - belum samsek
+add-job - buat jadi punya penerima kerja saja
